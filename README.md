@@ -1,4 +1,5 @@
-Try it here: https://alex-milyaev.github.io/Landing---Evclid-/
+# Строительная компания Evclid
+## Приветствую, представляю вашему вниманию верстку сайта строительной компании Evclid, ознакомиться можно по [сслыке](rshuva1ov.github.io/evclid-landing/)
 
 Верстка макета-"Евклид" с использованием HTML,CSS и JS
 - использование плагина "Swiper.js"
